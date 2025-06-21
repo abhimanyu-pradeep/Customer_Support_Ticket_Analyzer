@@ -11,9 +11,8 @@ Built using **Pydantic AI** for structured data handling, the project also inclu
 ### 1. Setup
 
 Clone the repository (conceptually, since code is shared directly):
-
-# git clone <your-repo-url>
-# cd main_directory_name
+ git clone <your-repo-url>
+ cd main_directory_name
 
 Install dependencies:
 pip install pydantic
