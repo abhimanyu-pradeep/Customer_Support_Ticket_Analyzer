@@ -6,24 +6,6 @@ Built using **Pydantic AI** for structured data handling, the project also inclu
 
 ---
 
-## Project Structure
-
-main_directory_name/
-├── main.py # Orchestrator and entry point
-├── agents/ # Specialized agent logic lives here
-│ ├── init.py
-│ ├── base_agent.py # Pydantic models and BaseAgent class
-│ ├── technical_analyzer.py # Handles technical issues
-│ └── customer_context.py # Handles customer-related context
-├── evaluation/
-│ ├── init.py
-│ ├── evaluator.py # Metrics and scoring logic
-│ └── test_cases.py # Sample tickets for evaluation
-├── docs/
-│ ├── architecture.md # System architecture and agent interaction
-│ └── design_decisions.md # Why we built it this way
-└── README.md # Project overview and execution guide
-
 ## Getting Started
 
 ### 1. Setup
