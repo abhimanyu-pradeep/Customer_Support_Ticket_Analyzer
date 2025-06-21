@@ -12,7 +12,6 @@ Built using **Pydantic AI** for structured data handling, the project also inclu
 
 Clone the repository (conceptually, since code is shared directly):
 
-```bash
 # git clone <your-repo-url>
 # cd main_directory_name
 
