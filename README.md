@@ -1,9 +1,12 @@
-Multi-Agent Customer Support Ticket Analyzer
+# Multi-Agent Customer Support Ticket Analyzer
+
 This repository presents a simple but powerful multi-agent system built to automatically analyze incoming customer support tickets. By combining the strengths of specialized AI agents, it classifies each ticket by category, determines its priority, and recommends the most appropriate team for routing.
 
-Built using Pydantic AI for structured data handling, the project also includes a light evaluation framework and simulated test cases—making it an ideal case study in agent collaboration, system orchestration, and modular AI design.
+Built using **Pydantic AI** for structured data handling, the project also includes a lightweight evaluation framework and simulated test cases—making it an ideal case study in agent collaboration, system orchestration, and modular AI design.
 
-Project Structure
+---
+
+## Project Structure
 
 main_directory_name/
 ├── main.py                 # Orchestrator and entry point
@@ -22,10 +25,13 @@ main_directory_name/
 └── README.md               # Project overview and execution guide
 
 
-Getting Started
- Setup
-Clone the repository:
-# This is conceptual—since you’re receiving the code directly
+## 🚀 Getting Started
+
+### 1. Setup
+
+Clone the repository (conceptually, since code is shared directly):
+
+```bash
 # git clone <your-repo-url>
 # cd main_directory_name
 
